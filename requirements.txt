@@ -1,2 +1,8 @@
 pandas
 pyarrow
+matplotlib
+folium
+contextily
+geopandas
+shapely
+scipy
